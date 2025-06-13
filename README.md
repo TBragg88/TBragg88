@@ -26,4 +26,4 @@
 - Exploring **best practices & improving my skills**  
 
 ## 📫 Connect with Me  
-🔗 [GitHub](https://github.com/TBragg88) | [LinkedIn](www.linkedin.com/in/tombragg88) | [Portfolio](Your Portfolio URL)  **comming soon**
+🔗 [GitHub](https://github.com/TBragg88) | [LinkedIn](www.linkedin.com/in/tombragg88) | [Portfolio] **comming soon**
