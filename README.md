@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tom Bragg!  
+# Hi, I'm Tom!  
 
 **Junior Web Developer | JavaScript & Python Enthusiast**  
 
